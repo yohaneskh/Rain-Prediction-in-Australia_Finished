@@ -42,5 +42,7 @@ ii. The raw CSV file has been stored in this repository and loaded via GitHub’
 
 ## AUTHOR
 Yohanes Kurniawan Hertanto
+
 An aspiring Data Analyst with interest in Machine Learning
+
 https://www.kaggle.com/yohaneskhyekaha

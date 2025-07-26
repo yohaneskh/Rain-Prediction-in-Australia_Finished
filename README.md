@@ -2,13 +2,19 @@
 
 This notebook focuses on building a **Supervised Machine Learning** model to predict whether it will rain tomorrow in Australia, based on historical weather data. 
 
+---
+
 ### A. Objective
 This project aims to predict whether it will rain tomorrow in various locations across Australia based on historical weather observations.
+
+---
 
 ### B. Dataset Information
 i. The dataset is publicly available from Kaggle (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) and contains various meteorological features such as temperature, humidity, wind, and rainfall.
 
 ii. The raw CSV file has been stored in this repository and loaded via GitHub’s raw URL: https://raw.githubusercontent.com/yohaneskh/Rain-Prediction-in-Australia_Finished/refs/heads/main/weatherAUS.csv.
+
+---
 
 ### C. Project Workflow
 1. Import Libraries.
@@ -39,6 +45,8 @@ ii. The raw CSV file has been stored in this repository and loaded via GitHub’
 
 9. Model Evaluation
 - Evaluated performance using Accuracy Score, Confusion Matrix dan Classification Report.
+
+---
 
 ## AUTHOR
 Yohanes Kurniawan Hertanto
